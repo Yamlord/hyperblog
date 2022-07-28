@@ -6,3 +6,5 @@ Pero vive en Monterrey, Nuevo León.
 Hoy hablaremos de su historia.
 
 Es programador Genexus y está aprendiendo Angular.
+
+Hoy es desarrollador de Potentor.
